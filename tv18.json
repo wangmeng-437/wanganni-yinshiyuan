@@ -1719,7 +1719,7 @@
        // {"key": "魔都资源","name": "魔都资源[🌈采集]","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1, "categories": [],"style": {"type": "rect","ratio": 0.75}},
            
      //{"key": "虾米资源","name": "虾米资源[🌈采集]","type": 1,"api": "https://zy.hls.one/api.php/provide/vod/","searchable": 1,"quickSearch": 1, "categories": [],"style": {"type": "rect","ratio": 0.75}},
-    // {      "key": "乐视",      "name": "🈲 成人频道[乐视][🌈采集]",      "type": 1,      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",      "searchable": 1,      "changeable": 1,      "categories": ['短剧',"伦理片","港台三级","韩国伦理","日本伦理","卡通动漫","其他伦理"]    },
+    // {      "key": "乐视",      "name": "🈲 成人频道[乐视][🌈采集]",      "type": 1,      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",      "searchable": 1,      "changeable": 1,      "categories": ["短剧","伦理片","港台三级","韩国伦理","日本伦理","卡通动漫","其他伦理"]    },
     
    // {      "key": "极速",      "name": "🈲 成人频道[极速][🌈采集]",      "type": 1,      "api": "https://jszyapi.com/api.php/provide/vod",      "searchable": 1,      "changeable": 1,      "categories": [        "伦理片"      ]    },
 // {      "key": "海外看",      "name": "海外看[高清][🌈采集]",      "type": 1,      "api": "https://haiwaikan.com/api.php/provide/vod/",      "searchable": 1,      "changeable": 1,      "categories": [              ]    },
