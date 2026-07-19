@@ -165,7 +165,7 @@
        // {"key": "魔都资源","name": "魔都资源🌈","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1, "categories": [],"style": {"type": "rect","ratio": 0.75}},
            
      //{"key": "虾米资源","name": "虾米资源🌈","type": 1,"api": "https://zy.hls.one/api.php/provide/vod/","searchable": 1,"quickSearch": 1, "categories": [],"style": {"type": "rect","ratio": 0.75}},
-    // {      "key": "乐视",      "name": "🈲 成人频道[乐视]🌈",      "type": 1,      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",      "searchable": 1,      "changeable": 1,      "categories": ['短剧',"伦理片","港台三级","韩国伦理","日本伦理","卡通动漫","其他伦理"]    },
+    // {      "key": "乐视",      "name": "🈲 成人频道[乐视]🌈",      "type": 1,      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",      "searchable": 1,      "changeable": 1,      "categories": ["短剧","伦理片","港台三级","韩国伦理","日本伦理","卡通动漫","其他伦理"]    },
     
    // {      "key": "极速",      "name": "🈲 成人频道[极速]🌈",      "type": 1,      "api": "https://jszyapi.com/api.php/provide/vod",      "searchable": 1,      "changeable": 1,      "categories": [        "伦理片"      ]    },
 // {      "key": "海外看",      "name": "海外看[高清]🌈",      "type": 1,      "api": "https://haiwaikan.com/api.php/provide/vod/",      "searchable": 1,      "changeable": 1,      "categories": [              ]    },
@@ -703,7 +703,7 @@
   {"key": "量子","name": "🈲 成人频道[量子]🌈","type": 0,//type＝0api为xml，type＝1api为json
    "api": "http://lzizy8.com/api.php/provide/vod/from/lzm3u8/at/xml/","searchable": 1,"changeable": 1,"categories": [      ]//分类用用引号分类逗号分割
  },
-{"key": "非凡","name": "🈲 成人频道[非凡]🌈","type": 1,"api": "http://ffzy3.tv/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ['短剧','伦理片']},
+{"key": "非凡","name": "🈲 成人频道[非凡]🌈","type": 1,"api": "http://ffzy3.tv/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["短剧","伦理片"]},
 {"key": "无尽","name": "🈲 成人频道[无尽]🌈","type": 1,"api": "https://api.wujinapi.me/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
 {"key": "ikun","name": "🈲 成人频道[ikun]🌈","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
 {"key": "速播","name": "🈲 成人频道[速播]🌈","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
