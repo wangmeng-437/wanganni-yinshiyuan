@@ -2,6 +2,19 @@
     "spider": "https://gb.hfr1107.top/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpqxyq.jar",
     "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
     "sites": [
+	     {
+            "key": "美人图.py",
+            "name": "美人图[图][py]",
+            "type": 3,
+            "api": "https://gb.hfr1107.top/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/py/美人图.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
         {
             "key": "肉视频1-py",
             "name": "肉视频[py]",
@@ -441,45 +454,6 @@
             "api": "https://gb.hfr1107.top/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/py/91蝌蚪窝.py",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "py_Pandalive.py",
-            "name": "Pandalive[直播][py][免翻]",
-            "type": 3,
-            "api": "https://gb.hfr1107.top/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/py/Pandalive.py",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.65
-            }
-        },
-        {
-            "key": "x.py",
-            "name": "X[py]",
-            "type": 3,
-            "api": "https://gb.hfr1107.top/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/py/X–Musk.py",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "美人图.py",
-            "name": "美人图[图][py]",
-            "type": 3,
-            "api": "https://gb.hfr1107.top/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/py/美人图.py",
-            "searchable": 0,
             "filterable": 0,
             "changeable": 0,
             "style": {
